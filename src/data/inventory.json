@@ -1,0 +1,58 @@
+[
+  {
+    "id": "inv1",
+    "medicine_id": "med1",
+    "quantity": 1200,
+    "batch_number": "BAT2024001",
+    "expiry_date": "2026-03-15"
+  },
+  {
+    "id": "inv2",
+    "medicine_id": "med2",
+    "quantity": 800,
+    "batch_number": "BAT2024002",
+    "expiry_date": "2024-12-20"
+  },
+  {
+    "id": "inv3",
+    "medicine_id": "med3",
+    "quantity": 950,
+    "batch_number": "BAT2024003",
+    "expiry_date": "2024-11-10"
+  },
+  {
+    "id": "inv4",
+    "medicine_id": "med4",
+    "quantity": 600,
+    "batch_number": "BAT2024004",
+    "expiry_date": "2026-06-15"
+  },
+  {
+    "id": "inv5",
+    "medicine_id": "med5",
+    "quantity": 750,
+    "batch_number": "BAT2024005",
+    "expiry_date": "2024-10-20"
+  },
+  {
+    "id": "inv6",
+    "medicine_id": "med6",
+    "quantity": 500,
+    "batch_number": "BAT2024006",
+    "expiry_date": "2026-08-25"
+  },
+  {
+    "id": "inv7",
+    "medicine_id": "med7",
+    "quantity": 900,
+    "batch_number": "BAT2024007",
+    "expiry_date": "2024-12-30"
+  },
+  {
+    "id": "inv8",
+    "medicine_id": "med8",
+    "quantity": 400,
+    "batch_number": "BAT2024008",
+    "expiry_date": "2026-10-15"
+  }
+] 
